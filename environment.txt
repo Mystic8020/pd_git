@@ -1,0 +1,5 @@
+CTkMessagebox
+pillow
+tkinter
+customtkinter
+mysql-connector-python
